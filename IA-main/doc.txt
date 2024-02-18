@@ -1,0 +1,24 @@
+https://rtone.fr/blog/ia-embarquee/#Quelle_est_la_difference_entre_lIA_et_le_machine_learning
+
+https://www.popsci.com/apple-watch-fall-detection/
+
+https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/
+
+https://devinci-my.sharepoint.com/personal/alexis_joseph_edu_devinci_fr/_layouts/15/doc.aspx?sourcedoc={c163c54a-378a-4d6e-8c7e-1a8ca9eba9ef}&action=edit
+
+https://www.tinkercad.com/things/56lcO2rWMwW-projet-test/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits%26pageSize%3D24%26page%3D0&sharecode=KQoiQgC2SWlmqMh68cOVbG1nR3AIEqzrdC5H7ANxrhI
+
+kaggle:
+
+Dataset car object
+https://www.kaggle.com/datasets/sshikamaru/car-object-detection/code
+
+notebook object detector: 
+https://www.kaggle.com/code/aruchomu/yolo-v3-object-detection-in-tensorflow/notebook
+
+Multiple Classifier Robot Movement Classification
+Sensor readings from a wall-following robot
+https://www.kaggle.com/code/thehapyone/multiple-classifier-robot-movement-classification/notebook
+
+data_dist.json
+https://www.kaggle.com/datasets/rohithmahadevan/distance-calibration-measurement-in-toy-train?resource=download

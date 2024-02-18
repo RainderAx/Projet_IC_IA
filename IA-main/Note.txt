@@ -1,0 +1,21 @@
+Biblio Algo IA 
+TensorFlow, 
+
+Collectés des données
+Comment ?
+
+
+
+Comment montrer la difference entre avant et maintenant ?
+
+
+
+comment lié notre machine learning  STM 32 NUCLEO
+TensorFlow 
+exporter votre modèle en utilisant TensorFlow SavedModel.
+
+aller sur kaggle
+faire un etat de l'art pour trouver quel algo correspond le mieux à notre problématique prendre un projet qui ressemble avec dataset aller sur google scolar pour voir quel algo utiliser dessus le modifier en adéquation avec notre problématique
+
+ou 
+faire un algo par renforcement

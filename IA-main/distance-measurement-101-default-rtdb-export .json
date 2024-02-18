@@ -1,0 +1,2166 @@
+{
+    "sensor" : {
+      "us" : {
+        "-MvCtiXks45XE6_NIkCM" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:49:28.505962",
+          "value" : 0
+        },
+        "-MvCtizSFs2_Eq6U0RzG" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 12:49:30.327585",
+          "value" : 0
+        },
+        "-MvCtjQtd0lt1nUSukR2" : {
+          "Distance" : 59.5,
+          "Time" : "2022-02-06 12:49:32.171886",
+          "value" : 0
+        },
+        "-MvCtjzrXWW4kcxoEP1N" : {
+          "Distance" : 31.89,
+          "Time" : "2022-02-06 12:49:34.485819",
+          "value" : 1
+        },
+        "-MvCtkRinw4MnTVpseoP" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:49:36.292045",
+          "value" : 0
+        },
+        "-MvCtktYyoY4vYtmbIr2" : {
+          "Distance" : 59.1,
+          "Time" : "2022-02-06 12:49:38.141603",
+          "value" : 0
+        },
+        "-MvCtlKinkow1wEwuTaO" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:49:39.980192",
+          "value" : 0
+        },
+        "-MvCtlmeyLm4PlPadMtQ" : {
+          "Distance" : 61.69,
+          "Time" : "2022-02-06 12:49:41.777852",
+          "value" : 0
+        },
+        "-MvCtmEFAX1KrNkIElyW" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:49:43.641938",
+          "value" : 0
+        },
+        "-MvCtmfsCFp-6rJIppcw" : {
+          "Distance" : 59.52,
+          "Time" : "2022-02-06 12:49:45.467050",
+          "value" : 0
+        },
+        "-MvCtn7lrcvsTPxUWD94" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:49:47.295079",
+          "value" : 0
+        },
+        "-MvCtnh-UBxNFZR3-3qS" : {
+          "Distance" : 27.85,
+          "Time" : "2022-02-06 12:49:49.650187",
+          "value" : 1
+        },
+        "-MvCto85v3DWQDrhz1Bt" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:49:51.467449",
+          "value" : 0
+        },
+        "-MvCtoa5jaYqLy9ycjUY" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:49:53.258738",
+          "value" : 0
+        },
+        "-MvCtp4nWICFAWdkZzaB" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 12:49:55.121989",
+          "value" : 0
+        },
+        "-MvCtpfOuxzA8DVgeF6r" : {
+          "Distance" : 60.82,
+          "Time" : "2022-02-06 12:49:57.181281",
+          "value" : 0
+        },
+        "-MvCtq8cMcsUlCrc0tFp" : {
+          "Distance" : 59.09,
+          "Time" : "2022-02-06 12:49:59.667811",
+          "value" : 0
+        },
+        "-MvCtqa0gPU3eqXkFJWe" : {
+          "Distance" : 58.67,
+          "Time" : "2022-02-06 12:50:01.490753",
+          "value" : 0
+        },
+        "-MvCtr9YReGIMGqEQPgR" : {
+          "Distance" : 45.53,
+          "Time" : "2022-02-06 12:50:03.810469",
+          "value" : 1
+        },
+        "-MvCtrbOkV1TeLbar2i5" : {
+          "Distance" : 59.61,
+          "Time" : "2022-02-06 12:50:05.647739",
+          "value" : 0
+        },
+        "-MvCts3IOH5GG-BmlLg8" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:50:07.490662",
+          "value" : 0
+        },
+        "-MvCtsVpZ6SDArzsqxOp" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:50:09.343191",
+          "value" : 0
+        },
+        "-MvCtt41PXjXs52QlaMS" : {
+          "Distance" : 44.3,
+          "Time" : "2022-02-06 12:50:11.665475",
+          "value" : 1
+        },
+        "-MvCttWkFyeqfgTU1Z8a" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 12:50:13.484286",
+          "value" : 0
+        },
+        "-MvCttyJ-SFUV0ZHVrUs" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:50:15.323960",
+          "value" : 0
+        },
+        "-MvCtuQ4crbWNTPilqKo" : {
+          "Distance" : 59.09,
+          "Time" : "2022-02-06 12:50:17.153561",
+          "value" : 0
+        },
+        "-MvCtuz33vZ3F8OZ9jVK" : {
+          "Distance" : 40.59,
+          "Time" : "2022-02-06 12:50:19.490689",
+          "value" : 1
+        },
+        "-MvCtvQt_KVmTp0pFOef" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 12:50:21.292206",
+          "value" : 0
+        },
+        "-MvCtvsLZyLJnRfdGMAL" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:50:23.141518",
+          "value" : 0
+        },
+        "-MvCtwKARnr1IPuQFW4s" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:50:24.962654",
+          "value" : 0
+        },
+        "-MvCtwtoR61Xasua8pUv" : {
+          "Distance" : 38.24,
+          "Time" : "2022-02-06 12:50:27.305938",
+          "value" : 1
+        },
+        "-MvCtxLIg3aUDv0jYPwY" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:50:29.152997",
+          "value" : 0
+        },
+        "-MvCtxmfKStUPGodFVG1" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 12:50:30.968145",
+          "value" : 0
+        },
+        "-MvCtyE7pySyTmBZIOUP" : {
+          "Distance" : 59.54,
+          "Time" : "2022-02-06 12:50:32.793748",
+          "value" : 0
+        },
+        "-MvCtynrkhnuPXt_mxWm" : {
+          "Distance" : 35.99,
+          "Time" : "2022-02-06 12:50:35.113302",
+          "value" : 1
+        },
+        "-MvCtzFLhzE83f7Sv5jq" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:50:36.967013",
+          "value" : 0
+        },
+        "-MvCtzgFvw8mT_UzyGt-" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:50:38.781303",
+          "value" : 0
+        },
+        "-MvCu-70P8NQrPVfGj-R" : {
+          "Distance" : 59.96,
+          "Time" : "2022-02-06 12:50:40.565384",
+          "value" : 0
+        },
+        "-MvCu-g0rjkdOpj0ytnv" : {
+          "Distance" : 33.81,
+          "Time" : "2022-02-06 12:50:42.844851",
+          "value" : 1
+        },
+        "-MvCu07R4gAL4njBlyLa" : {
+          "Distance" : 59.54,
+          "Time" : "2022-02-06 12:50:44.650675",
+          "value" : 0
+        },
+        "-MvCu0ZzabUUVfFWPB0-" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:50:46.471777",
+          "value" : 0
+        },
+        "-MvCu10QWswKjawoCFUp" : {
+          "Distance" : 58.8,
+          "Time" : "2022-02-06 12:50:48.301958",
+          "value" : 0
+        },
+        "-MvCu1dubvavbRtc1YTs" : {
+          "Distance" : 31.76,
+          "Time" : "2022-02-06 12:50:50.619484",
+          "value" : 1
+        },
+        "-MvCu255Zd-spuEgG1aI" : {
+          "Distance" : 58.66,
+          "Time" : "2022-02-06 12:50:52.711151",
+          "value" : 0
+        },
+        "-MvCu2XYHd_TmfOsFZ-l" : {
+          "Distance" : 59.1,
+          "Time" : "2022-02-06 12:50:54.507581",
+          "value" : 0
+        },
+        "-MvCu2zawzraWY44MRTS" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:50:56.335023",
+          "value" : 0
+        },
+        "-MvCu3o9TyUzK87wuqLB" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:50:59.765289",
+          "value" : 0
+        },
+        "-MvCu4FZ7pW9up-bpOFL" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:51:01.557654",
+          "value" : 0
+        },
+        "-MvCu4gKthPidBS9a41A" : {
+          "Distance" : 58.69,
+          "Time" : "2022-02-06 12:51:03.378478",
+          "value" : 0
+        },
+        "-MvCu5FvKjA1LTszc47E" : {
+          "Distance" : 33.42,
+          "Time" : "2022-02-06 12:51:05.658834",
+          "value" : 1
+        },
+        "-MvCu5hO72NDCG34xKOx" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:51:07.495302",
+          "value" : 0
+        },
+        "-MvCu68xRSEXFa4H3K5j" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:51:09.319755",
+          "value" : 0
+        },
+        "-MvCu6aqhEK2UjsfnEZ1" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 12:51:11.149759",
+          "value" : 0
+        },
+        "-MvCu79ub_8yxOqjjJXF" : {
+          "Distance" : 29.99,
+          "Time" : "2022-02-06 12:51:13.494325",
+          "value" : 1
+        },
+        "-MvCu7bidQFOHor5TGwr" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:51:15.305241",
+          "value" : 0
+        },
+        "-MvCu83iEeKQ8-M1ZXs1" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:51:17.147846",
+          "value" : 0
+        },
+        "-MvCu8WWHBpotP4Reb-S" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:51:19.009327",
+          "value" : 0
+        },
+        "-MvCu8y7mzDJHoXsYELf" : {
+          "Distance" : 60.87,
+          "Time" : "2022-02-06 12:51:20.846287",
+          "value" : 0
+        },
+        "-MvCu9PffWZejeYOCEXa" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:51:22.675996",
+          "value" : 0
+        },
+        "-MvCu9r925aaAG5y6kmY" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 12:51:24.501726",
+          "value" : 0
+        },
+        "-MvCuAIj0RjdW-j7j-4q" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:51:26.328095",
+          "value" : 0
+        },
+        "-MvCuAka4YRHO6JGm8xy" : {
+          "Distance" : 59.59,
+          "Time" : "2022-02-06 12:51:28.159268",
+          "value" : 0
+        },
+        "-MvCuBBpSeFmaLbJLE8w" : {
+          "Distance" : 59.6,
+          "Time" : "2022-02-06 12:51:30.006257",
+          "value" : 0
+        },
+        "-MvCuBdeNYpOZHZzDY4U" : {
+          "Distance" : 59.54,
+          "Time" : "2022-02-06 12:51:31.811686",
+          "value" : 0
+        },
+        "-MvCuC4eVlcipBqul94G" : {
+          "Distance" : 59.64,
+          "Time" : "2022-02-06 12:51:33.651926",
+          "value" : 0
+        },
+        "-MvCuCeKCkDv5oyZ94iD" : {
+          "Distance" : 32.38,
+          "Time" : "2022-02-06 12:51:35.941531",
+          "value" : 1
+        },
+        "-MvCuD63gQZRInLLLOYA" : {
+          "Distance" : 58.78,
+          "Time" : "2022-02-06 12:51:37.795516",
+          "value" : 0
+        },
+        "-MvCuDYsKa7YOYqHiJt3" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:51:39.630353",
+          "value" : 0
+        },
+        "-MvCuE-_2QqRxyu-f_oc" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:51:41.475750",
+          "value" : 0
+        },
+        "-MvCuESWULqjl_azUHC2" : {
+          "Distance" : 59.69,
+          "Time" : "2022-02-06 12:51:43.312839",
+          "value" : 0
+        },
+        "-MvCuEuNRBUGxv3qUiFU" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:51:45.166290",
+          "value" : 0
+        },
+        "-MvCuFLeYCKCLjyARVz9" : {
+          "Distance" : 58.79,
+          "Time" : "2022-02-06 12:51:47.012191",
+          "value" : 0
+        },
+        "-MvCuFnoIdM70-EU0iUj" : {
+          "Distance" : 58.82,
+          "Time" : "2022-02-06 12:51:48.824018",
+          "value" : 0
+        },
+        "-MvCuGNMmXOPfiSQmPSM" : {
+          "Distance" : 33.38,
+          "Time" : "2022-02-06 12:51:51.187447",
+          "value" : 1
+        },
+        "-MvCuGp70fi9wtqtWO51" : {
+          "Distance" : 59.59,
+          "Time" : "2022-02-06 12:51:53.027794",
+          "value" : 0
+        },
+        "-MvCuHGgPxviiMuPirq8" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:51:54.867391",
+          "value" : 0
+        },
+        "-MvCuHnq_h3kwWlldLZX" : {
+          "Distance" : 59.97,
+          "Time" : "2022-02-06 12:51:56.698022",
+          "value" : 0
+        },
+        "-MvCuIIa0ymFKCabizc0" : {
+          "Distance" : 60.55,
+          "Time" : "2022-02-06 12:51:58.985694",
+          "value" : 0
+        },
+        "-MvCuIkD-eDHz6yvHVjW" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:52:00.913121",
+          "value" : 0
+        },
+        "-MvCuJBqV3brmVbg3Nvm" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:52:02.751652",
+          "value" : 0
+        },
+        "-MvCuJday2R3b0ciebO3" : {
+          "Distance" : 59.6,
+          "Time" : "2022-02-06 12:52:04.581648",
+          "value" : 0
+        },
+        "-MvCuK5RVrYNGu1zfXP5" : {
+          "Distance" : 60.92,
+          "Time" : "2022-02-06 12:52:06.416104",
+          "value" : 0
+        },
+        "-MvCuKXVU5Ut0amvBT4S" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:52:08.265466",
+          "value" : 0
+        },
+        "-MvCuKzWgIs7B4dh83Nm" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 12:52:10.059483",
+          "value" : 0
+        },
+        "-MvCuLRjW2rUkH8juOh-" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:52:11.919091",
+          "value" : 0
+        },
+        "-MvCuM-wJSgoykGw_TTJ" : {
+          "Distance" : 30.74,
+          "Time" : "2022-02-06 12:52:14.285551",
+          "value" : 1
+        },
+        "-MvCuMSQb7zXL5LFIaxP" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:52:16.102993",
+          "value" : 0
+        },
+        "-MvCuMttsNJjblAY07An" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:52:17.927750",
+          "value" : 0
+        },
+        "-MvCuNLFqHCLkLp0GUnT" : {
+          "Distance" : 58.3,
+          "Time" : "2022-02-06 12:52:19.749879",
+          "value" : 0
+        },
+        "-MvCuNujVvbP4Ytkl0Zy" : {
+          "Distance" : 30.32,
+          "Time" : "2022-02-06 12:52:22.061155",
+          "value" : 1
+        },
+        "-MvCuOMSYF9_aSpykLsq" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:52:23.898536",
+          "value" : 0
+        },
+        "-MvCuOoA0rilUV4hysFd" : {
+          "Distance" : 58.33,
+          "Time" : "2022-02-06 12:52:25.737960",
+          "value" : 0
+        },
+        "-MvCuPG9Tnhf9_sQPhg3" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:52:27.575304",
+          "value" : 0
+        },
+        "-MvCuPpmIY3-CSQjQuAK" : {
+          "Distance" : 31.03,
+          "Time" : "2022-02-06 12:52:29.926016",
+          "value" : 1
+        },
+        "-MvCuQHGQHxfsq7Q7SzS" : {
+          "Distance" : 59.62,
+          "Time" : "2022-02-06 12:52:31.773229",
+          "value" : 0
+        },
+        "-MvCuQj7hl2nH3GReM-G" : {
+          "Distance" : 59.21,
+          "Time" : "2022-02-06 12:52:33.595619",
+          "value" : 0
+        },
+        "-MvCuRAgBFohP9EawD1K" : {
+          "Distance" : 59.53,
+          "Time" : "2022-02-06 12:52:35.445433",
+          "value" : 0
+        },
+        "-MvCuRkPVLbHb7uos6rG" : {
+          "Distance" : 30.97,
+          "Time" : "2022-02-06 12:52:37.771153",
+          "value" : 1
+        },
+        "-MvCuSBhJotE_kqrf50e" : {
+          "Distance" : 59.09,
+          "Time" : "2022-02-06 12:52:39.621935",
+          "value" : 0
+        },
+        "-MvCuSdQjGR5i3_FfsF2" : {
+          "Distance" : 59.55,
+          "Time" : "2022-02-06 12:52:41.435344",
+          "value" : 0
+        },
+        "-MvCuT5AvXp0dJ71ELMe" : {
+          "Distance" : 59.53,
+          "Time" : "2022-02-06 12:52:43.270778",
+          "value" : 0
+        },
+        "-MvCuTeq5y1iUWlG9R7j" : {
+          "Distance" : 30.01,
+          "Time" : "2022-02-06 12:52:45.610683",
+          "value" : 1
+        },
+        "-MvCuU6AAquTZaSFFd01" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:52:47.458954",
+          "value" : 0
+        },
+        "-MvCuUYY-fPnqOvabCHE" : {
+          "Distance" : 60.0,
+          "Time" : "2022-02-06 12:52:49.263136",
+          "value" : 0
+        },
+        "-MvCuV-lSxUQFuMtrOXr" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 12:52:51.087245",
+          "value" : 0
+        },
+        "-MvCuVSHKLhhPsWXopjr" : {
+          "Distance" : 60.5,
+          "Time" : "2022-02-06 12:52:52.958266",
+          "value" : 0
+        },
+        "-MvCuVtniz0HCW8eJxE4" : {
+          "Distance" : 58.37,
+          "Time" : "2022-02-06 12:52:54.784499",
+          "value" : 0
+        },
+        "-MvCuWP_K7PQD410Ziiu" : {
+          "Distance" : 58.3,
+          "Time" : "2022-02-06 12:52:56.605672",
+          "value" : 0
+        },
+        "-MvCuWw8ViXwb32112C5" : {
+          "Distance" : 58.4,
+          "Time" : "2022-02-06 12:52:58.809915",
+          "value" : 0
+        },
+        "-MvCuXNn4t5YQZDP_3pD" : {
+          "Distance" : 58.8,
+          "Time" : "2022-02-06 12:53:00.855952",
+          "value" : 0
+        },
+        "-MvCuXpG2KXN1V4cFUHo" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:53:02.685736",
+          "value" : 0
+        },
+        "-MvCuYGj2vYv88IILMa8" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:53:04.506958",
+          "value" : 0
+        },
+        "-MvCuYiSWNdhKJYMmAGs" : {
+          "Distance" : 59.88,
+          "Time" : "2022-02-06 12:53:06.327135",
+          "value" : 0
+        },
+        "-MvCuZHtDBPE1vP3943P" : {
+          "Distance" : 31.98,
+          "Time" : "2022-02-06 12:53:08.668721",
+          "value" : 1
+        },
+        "-MvCuZjJQLWn9h3EJhPI" : {
+          "Distance" : 59.52,
+          "Time" : "2022-02-06 12:53:10.501184",
+          "value" : 0
+        },
+        "-MvCu_AbSeydQJ1Q-Jcq" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:53:12.321078",
+          "value" : 0
+        },
+        "-MvCu_cC8JKrgS08dczA" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 12:53:14.132076",
+          "value" : 0
+        },
+        "-MvCuaBhxHycSEuG3L7Z" : {
+          "Distance" : 33.01,
+          "Time" : "2022-02-06 12:53:16.458639",
+          "value" : 1
+        },
+        "-MvCuadXvxXq4_-2_m1S" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:53:18.297932",
+          "value" : 0
+        },
+        "-MvCub5nu_ZxHRFvQN3X" : {
+          "Distance" : 59.09,
+          "Time" : "2022-02-06 12:53:20.141969",
+          "value" : 0
+        },
+        "-MvCubYqpGP9VIxFTFFz" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:53:22.014487",
+          "value" : 0
+        },
+        "-MvCuc7MFhIqfuUyrJ6y" : {
+          "Distance" : 33.84,
+          "Time" : "2022-02-06 12:53:24.371446",
+          "value" : 1
+        },
+        "-MvCuc_LQD25IuZfR9Sj" : {
+          "Distance" : 58.39,
+          "Time" : "2022-02-06 12:53:26.209072",
+          "value" : 0
+        },
+        "-MvCud0lsUwKItI8g540" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 12:53:28.067347",
+          "value" : 0
+        },
+        "-MvCudTU-kDBsaPag3mQ" : {
+          "Distance" : 58.32,
+          "Time" : "2022-02-06 12:53:29.882843",
+          "value" : 0
+        },
+        "-MvCue2GVd_wqOuozo4v" : {
+          "Distance" : 34.94,
+          "Time" : "2022-02-06 12:53:32.222346",
+          "value" : 1
+        },
+        "-MvCueV7SZdqkNxIKbc0" : {
+          "Distance" : 59.22,
+          "Time" : "2022-02-06 12:53:34.082408",
+          "value" : 0
+        },
+        "-MvCuew17YGXUVYAVn4u" : {
+          "Distance" : 58.35,
+          "Time" : "2022-02-06 12:53:35.923454",
+          "value" : 0
+        },
+        "-MvCufNJAdwFW-nv-ENw" : {
+          "Distance" : 58.77,
+          "Time" : "2022-02-06 12:53:37.702127",
+          "value" : 0
+        },
+        "-MvCufx27o2-2kPYUsne" : {
+          "Distance" : 35.77,
+          "Time" : "2022-02-06 12:53:40.023187",
+          "value" : 1
+        },
+        "-MvCugOU6Bbyjs5DNngy" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:53:41.874346",
+          "value" : 0
+        },
+        "-MvCugpd7BmuOImwGuyA" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 12:53:43.694387",
+          "value" : 0
+        },
+        "-MvCuhGx-NqUDk9KgslE" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:53:45.492062",
+          "value" : 0
+        },
+        "-MvCuhq-c9mXXrTeE5S_" : {
+          "Distance" : 37.23,
+          "Time" : "2022-02-06 12:53:47.806310",
+          "value" : 1
+        },
+        "-MvCuiHHZmWEilWmxMeI" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:53:49.603070",
+          "value" : 0
+        },
+        "-MvCuijIuO8g96VKvnAL" : {
+          "Distance" : 59.22,
+          "Time" : "2022-02-06 12:53:51.425722",
+          "value" : 0
+        },
+        "-MvCujAlOYAipXV5buBZ" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:53:53.282610",
+          "value" : 0
+        },
+        "-MvCujkJacwe26Fu6_gN" : {
+          "Distance" : 37.7,
+          "Time" : "2022-02-06 12:53:55.600582",
+          "value" : 1
+        },
+        "-MvCukM69U9ENh1w1oBY" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 12:53:57.650868",
+          "value" : 0
+        },
+        "-MvCukpwgvcFb6_v5Tkl" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:54:00.028261",
+          "value" : 0
+        },
+        "-MvCulHiAUn0pe6tXPGY" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 12:54:01.895629",
+          "value" : 0
+        },
+        "-MvCuljixc7y1nWbG4Cj" : {
+          "Distance" : 60.9,
+          "Time" : "2022-02-06 12:54:03.736407",
+          "value" : 0
+        },
+        "-MvCumBOT1afX254dSKw" : {
+          "Distance" : 58.79,
+          "Time" : "2022-02-06 12:54:05.594958",
+          "value" : 0
+        },
+        "-MvCumcbEVVHYGJSDAqt" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 12:54:07.433326",
+          "value" : 0
+        },
+        "-MvCun4IBq8XxBg6ZSQT" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 12:54:09.228643",
+          "value" : 0
+        },
+        "-MvCunds87s5SYh9fJkz" : {
+          "Distance" : 30.51,
+          "Time" : "2022-02-06 12:54:11.571291",
+          "value" : 1
+        },
+        "-MvCuo5JiNFsOXAwzdil" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:54:13.409179",
+          "value" : 0
+        },
+        "-MvCuoYoyIFZTw4aDhX1" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:54:15.233663",
+          "value" : 0
+        },
+        "-MvCup-BFLAxa6pEHAwU" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 12:54:17.119427",
+          "value" : 0
+        },
+        "-MvCupZiD81UGPcEvhIT" : {
+          "Distance" : 28.57,
+          "Time" : "2022-02-06 12:54:19.434460",
+          "value" : 1
+        },
+        "-MvCuq0e3b2yAtD7GnJD" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:54:21.274753",
+          "value" : 0
+        },
+        "-MvCuqTckeXjXc6LA1p_" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:54:23.124066",
+          "value" : 0
+        },
+        "-MvCuqvJGd-eLOGqLImM" : {
+          "Distance" : 59.6,
+          "Time" : "2022-02-06 12:54:24.980369",
+          "value" : 0
+        },
+        "-MvCurV-cdIAYILwu1R0" : {
+          "Distance" : 25.9,
+          "Time" : "2022-02-06 12:54:27.314304",
+          "value" : 1
+        },
+        "-MvCurwao9OwcOY6nLGt" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:54:29.162490",
+          "value" : 0
+        },
+        "-MvCusOBQZ5n4MZ9jvVa" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:54:30.993287",
+          "value" : 0
+        },
+        "-MvCusptPDEto8nfou3a" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:54:32.827834",
+          "value" : 0
+        },
+        "-MvCutPhlxhThertaIol" : {
+          "Distance" : 22.14,
+          "Time" : "2022-02-06 12:54:35.158544",
+          "value" : 1
+        },
+        "-MvCutrIZBFDcaiLGG2D" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:54:37.016466",
+          "value" : 0
+        },
+        "-MvCuuJFze7GNUAhAq0N" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:54:38.848869",
+          "value" : 0
+        },
+        "-MvCuukybWJ9AqAVTKmq" : {
+          "Distance" : 59.07,
+          "Time" : "2022-02-06 12:54:40.701326",
+          "value" : 0
+        },
+        "-MvCuvKGTNrU6PwLy6xk" : {
+          "Distance" : 47.97,
+          "Time" : "2022-02-06 12:54:43.039361",
+          "value" : 1
+        },
+        "-MvCuvliAckokcOR7hRz" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:54:44.855512",
+          "value" : 0
+        },
+        "-MvCuwD1MlljOMt9iYmq" : {
+          "Distance" : 59.08,
+          "Time" : "2022-02-06 12:54:46.683087",
+          "value" : 0
+        },
+        "-MvCuweYBqwvBAA1HfnX" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:54:48.491390",
+          "value" : 0
+        },
+        "-MvCuxE0EmTrGxHkYPLt" : {
+          "Distance" : 13.94,
+          "Time" : "2022-02-06 12:54:50.815717",
+          "value" : 1
+        },
+        "-MvCuxff8DOozX14R8pa" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:54:52.653960",
+          "value" : 0
+        },
+        "-MvCuy7eLySpiB7MarZa" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:54:54.482684",
+          "value" : 0
+        },
+        "-MvCuypt9rJsUr0si0qe" : {
+          "Distance" : 44.12,
+          "Time" : "2022-02-06 12:54:56.840266",
+          "value" : 1
+        },
+        "-MvCuzJhKSfTjpppDB04" : {
+          "Distance" : 58.68,
+          "Time" : "2022-02-06 12:54:59.342865",
+          "value" : 0
+        },
+        "-MvCuzlUAT5FS62MwNTL" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:55:01.211804",
+          "value" : 0
+        },
+        "-MvCv-DRaL6txMJEfL5z" : {
+          "Distance" : 58.32,
+          "Time" : "2022-02-06 12:55:03.054375",
+          "value" : 0
+        },
+        "-MvCv-n14YAYGLo6hFUS" : {
+          "Distance" : 28.26,
+          "Time" : "2022-02-06 12:55:05.401258",
+          "value" : 1
+        },
+        "-MvCv0FIMZgpdxHi7QYX" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:55:07.249604",
+          "value" : 0
+        },
+        "-MvCv0hO_O9Ww18h2vLl" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:55:09.127341",
+          "value" : 0
+        },
+        "-MvCv19SUBqxj4Vk-4EZ" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:55:10.979874",
+          "value" : 0
+        },
+        "-MvCv1iQJ97NRcZTmGS4" : {
+          "Distance" : 17.74,
+          "Time" : "2022-02-06 12:55:13.341352",
+          "value" : 1
+        },
+        "-MvCv29HVeMkgP_4pP5F" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:55:15.142825",
+          "value" : 0
+        },
+        "-MvCv2aujg47gYhTykIk" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:55:16.925838",
+          "value" : 0
+        },
+        "-MvCv32P1kNiGWnkFAmT" : {
+          "Distance" : 58.67,
+          "Time" : "2022-02-06 12:55:18.757579",
+          "value" : 0
+        },
+        "-MvCv3VE7oPLVmkLRS9C" : {
+          "Distance" : 60.6,
+          "Time" : "2022-02-06 12:55:20.581624",
+          "value" : 0
+        },
+        "-MvCv3x-G2WdlemF0fxG" : {
+          "Distance" : 59.46,
+          "Time" : "2022-02-06 12:55:22.423745",
+          "value" : 0
+        },
+        "-MvCv4Oh_xj90G8J0J7o" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 12:55:24.267206",
+          "value" : 0
+        },
+        "-MvCv4q9tix1LwCHCDWa" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:55:26.107012",
+          "value" : 0
+        },
+        "-MvCv5QAhGvGHjVVtdVr" : {
+          "Distance" : 24.87,
+          "Time" : "2022-02-06 12:55:28.426666",
+          "value" : 1
+        },
+        "-MvCv5rzI2UlWT4ESUYs" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 12:55:30.298145",
+          "value" : 0
+        },
+        "-MvCv6JpUbz7ivqBP8LY" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 12:55:32.141466",
+          "value" : 0
+        },
+        "-MvCv6t-vLjvuWutDdUo" : {
+          "Distance" : 48.07,
+          "Time" : "2022-02-06 12:55:34.487705",
+          "value" : 1
+        },
+        "-MvCv7Kc7RqOftfdl6ue" : {
+          "Distance" : 59.19,
+          "Time" : "2022-02-06 12:55:36.304100",
+          "value" : 0
+        },
+        "-MvCv7mP-ErPdfOKgB8f" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:55:38.131229",
+          "value" : 0
+        },
+        "-MvCv8EHcDn8_GKGV-Xr" : {
+          "Distance" : 59.19,
+          "Time" : "2022-02-06 12:55:39.976449",
+          "value" : 0
+        },
+        "-MvCv8g2iFABkeVezJK1" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:55:41.824693",
+          "value" : 0
+        },
+        "-MvCv9FaygJv1fEeR5R6" : {
+          "Distance" : 11.92,
+          "Time" : "2022-02-06 12:55:44.161691",
+          "value" : 1
+        },
+        "-MvCv9hOjvyeIp6M7h6b" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:55:46.004594",
+          "value" : 0
+        },
+        "-MvCvA98x6S8UnlXDMEG" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:55:47.845697",
+          "value" : 0
+        },
+        "-MvCvAixubnTfcymml8B" : {
+          "Distance" : 32.45,
+          "Time" : "2022-02-06 12:55:50.185755",
+          "value" : 1
+        },
+        "-MvCvBAKOmTMGpXdfMRw" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:55:52.045465",
+          "value" : 0
+        },
+        "-MvCvBc0KHa_CSWaea6y" : {
+          "Distance" : 59.53,
+          "Time" : "2022-02-06 12:55:53.854516",
+          "value" : 0
+        },
+        "-MvCvC78C-PgU9SbIY_E" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:55:55.697015",
+          "value" : 0
+        },
+        "-MvCvComoo3tD9BNINVo" : {
+          "Distance" : 23.05,
+          "Time" : "2022-02-06 12:55:58.283726",
+          "value" : 1
+        },
+        "-MvCvDGqjILIw1iFGr4c" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:56:00.611245",
+          "value" : 0
+        },
+        "-MvCvDicyM_b1sJE2IwV" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:56:02.464298",
+          "value" : 0
+        },
+        "-MvCvEIRntuh9M-3uUNg" : {
+          "Distance" : 40.91,
+          "Time" : "2022-02-06 12:56:04.809394",
+          "value" : 1
+        },
+        "-MvCvEkY80aCxHEgRQ6X" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:56:06.664382",
+          "value" : 0
+        },
+        "-MvCvFCdwYeU24M1RCFk" : {
+          "Distance" : 59.1,
+          "Time" : "2022-02-06 12:56:08.528629",
+          "value" : 0
+        },
+        "-MvCvFe5xf8KBb-ZpEYY" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 12:56:10.390457",
+          "value" : 0
+        },
+        "-MvCvGDJi0RpJH-ub0Sr" : {
+          "Distance" : 31.69,
+          "Time" : "2022-02-06 12:56:12.710665",
+          "value" : 1
+        },
+        "-MvCvGfKH5KmZp_PMmak" : {
+          "Distance" : 58.78,
+          "Time" : "2022-02-06 12:56:14.526307",
+          "value" : 0
+        },
+        "-MvCvH73ZY5fImTbs74x" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:56:16.388533",
+          "value" : 0
+        },
+        "-MvCvHZuFwvC3Uz6R3lY" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:56:18.227748",
+          "value" : 0
+        },
+        "-MvCvI9769-wFdaQq7RD" : {
+          "Distance" : 24.78,
+          "Time" : "2022-02-06 12:56:20.568562",
+          "value" : 1
+        },
+        "-MvCvIb6C5zGagCOMLFQ" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:56:22.453275",
+          "value" : 0
+        },
+        "-MvCvJ2vRkZlhy_LAkPC" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 12:56:24.305669",
+          "value" : 0
+        },
+        "-MvCvJVvWu0eOE6Eyw16" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 12:56:26.151127",
+          "value" : 0
+        },
+        "-MvCvJxXpQmhRDWlyyP8" : {
+          "Distance" : 61.47,
+          "Time" : "2022-02-06 12:56:28.007364",
+          "value" : 0
+        },
+        "-MvCvKPEeBT6hH4NWRlw" : {
+          "Distance" : 59.19,
+          "Time" : "2022-02-06 12:56:29.836481",
+          "value" : 0
+        },
+        "-MvCvKr0vqAg69gBVroI" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 12:56:31.674703",
+          "value" : 0
+        },
+        "-MvCvLJAgStCbQ2Ug4zm" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:56:33.515933",
+          "value" : 0
+        },
+        "-MvCvLkTOMgzgvpZ70XR" : {
+          "Distance" : 59.83,
+          "Time" : "2022-02-06 12:56:35.384232",
+          "value" : 0
+        },
+        "-MvCvMCeZxSRpLSF9LOy" : {
+          "Distance" : 58.69,
+          "Time" : "2022-02-06 12:56:37.191486",
+          "value" : 0
+        },
+        "-MvCvMeKTiueHSR0L5ua" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:56:39.062532",
+          "value" : 0
+        },
+        "-MvCvN5bFSSwRfluBFdu" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 12:56:40.894766",
+          "value" : 0
+        },
+        "-MvCvNYPsXyRsB8CoGez" : {
+          "Distance" : 61.01,
+          "Time" : "2022-02-06 12:56:42.705405",
+          "value" : 0
+        },
+        "-MvCvO-FrgycmtBB5l5E" : {
+          "Distance" : 59.55,
+          "Time" : "2022-02-06 12:56:44.551622",
+          "value" : 0
+        },
+        "-MvCvOS2gN7K0QI1_Jj3" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:56:46.397018",
+          "value" : 0
+        },
+        "-MvCvOtbiR_yTavz1_kR" : {
+          "Distance" : 59.54,
+          "Time" : "2022-02-06 12:56:48.243123",
+          "value" : 0
+        },
+        "-MvCvPT6FE9zh8vTrrDK" : {
+          "Distance" : 21.03,
+          "Time" : "2022-02-06 12:56:50.570992",
+          "value" : 1
+        },
+        "-MvCvPuq4AbyDuA1HF-W" : {
+          "Distance" : 59.58,
+          "Time" : "2022-02-06 12:56:52.402368",
+          "value" : 0
+        },
+        "-MvCvQMdfVOPR-v4kEJ0" : {
+          "Distance" : 59.63,
+          "Time" : "2022-02-06 12:56:54.246339",
+          "value" : 0
+        },
+        "-MvCvQsXIW993QjfdKMt" : {
+          "Distance" : 60.87,
+          "Time" : "2022-02-06 12:56:56.087999",
+          "value" : 0
+        },
+        "-MvCvRXyhFMt-6iyF_aJ" : {
+          "Distance" : 19.73,
+          "Time" : "2022-02-06 12:56:58.795990",
+          "value" : 1
+        },
+        "-MvCvRzk_wCnnOIomZLc" : {
+          "Distance" : 59.1,
+          "Time" : "2022-02-06 12:57:00.907876",
+          "value" : 0
+        },
+        "-MvCvSRPC2lhS_M8s1u1" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 12:57:02.751222",
+          "value" : 0
+        },
+        "-MvCvT05YGX2tjq7kZCI" : {
+          "Distance" : 31.36,
+          "Time" : "2022-02-06 12:57:05.078468",
+          "value" : 1
+        },
+        "-MvCvTSJsVTGq_0lHt84" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 12:57:06.927318",
+          "value" : 0
+        },
+        "-MvCvTuDW2pOTk-5xMS5" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 12:57:08.735916",
+          "value" : 0
+        },
+        "-MvCvULbPAa65YvtPFDs" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 12:57:10.585721",
+          "value" : 0
+        },
+        "-MvCvUuWjaCnjkum8C3Y" : {
+          "Distance" : 22.01,
+          "Time" : "2022-02-06 12:57:12.901050",
+          "value" : 1
+        },
+        "-MvCvVMMisKgBACkF_nS" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 12:57:14.694041",
+          "value" : 0
+        },
+        "-MvCvVnyIlXXKMzmsDPt" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:57:16.551220",
+          "value" : 0
+        },
+        "-MvCvWG06yhXqV0Hfw9k" : {
+          "Distance" : 59.59,
+          "Time" : "2022-02-06 12:57:18.380436",
+          "value" : 0
+        },
+        "-MvCvWhMuiAZnwSAAX-Q" : {
+          "Distance" : 64.92,
+          "Time" : "2022-02-06 12:57:20.240572",
+          "value" : 0
+        },
+        "-MvCvX8ruD88OX3CgU5p" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 12:57:22.057842",
+          "value" : 0
+        },
+        "-MvCvXa_lvFZuWCh3F06" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:57:23.878604",
+          "value" : 0
+        },
+        "-MvCvY2-49rq9LQMlGWj" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:57:25.715990",
+          "value" : 0
+        },
+        "-MvCvYbaySop7WedE31z" : {
+          "Distance" : 18.99,
+          "Time" : "2022-02-06 12:57:28.024682",
+          "value" : 1
+        },
+        "-MvCvZ37T3J8etfHAQrD" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 12:57:29.873883",
+          "value" : 0
+        },
+        "-MvCvZVWJ9049XKRiVjq" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:57:31.700030",
+          "value" : 0
+        },
+        "-MvCv_3aw08DYBVbvWSb" : {
+          "Distance" : 44.07,
+          "Time" : "2022-02-06 12:57:34.021765",
+          "value" : 1
+        },
+        "-MvCv_d1tZExMdlEryiO" : {
+          "Distance" : 10.28,
+          "Time" : "2022-02-06 12:57:36.324058",
+          "value" : 1
+        },
+        "-MvCva4Q8kb-KySLJU0r" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 12:57:38.159955",
+          "value" : 0
+        },
+        "-MvCvaWxMVjlD0dsn_r-" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:57:39.974056",
+          "value" : 0
+        },
+        "-MvCvb5wuiFHfO8Se9vM" : {
+          "Distance" : 28.75,
+          "Time" : "2022-02-06 12:57:42.298272",
+          "value" : 1
+        },
+        "-MvCvbYJ7aqnBcJ8h9PS" : {
+          "Distance" : 59.54,
+          "Time" : "2022-02-06 12:57:44.168971",
+          "value" : 0
+        },
+        "-MvCvc-1GslfjVuEWmKm" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:57:45.985559",
+          "value" : 0
+        },
+        "-MvCvcRXqH1wG6g174uN" : {
+          "Distance" : 59.22,
+          "Time" : "2022-02-06 12:57:47.821211",
+          "value" : 0
+        },
+        "-MvCvd-qgTpA2EWyZNF-" : {
+          "Distance" : 24.82,
+          "Time" : "2022-02-06 12:57:50.142161",
+          "value" : 1
+        },
+        "-MvCvdSawp7QIfMk70ZT" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 12:57:51.970637",
+          "value" : 0
+        },
+        "-MvCvduR32H3qO2os7d4" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:57:53.811766",
+          "value" : 0
+        },
+        "-MvCveNWSfCuM1q9U8Ie" : {
+          "Distance" : 59.57,
+          "Time" : "2022-02-06 12:57:55.654522",
+          "value" : 0
+        },
+        "-MvCveuM7oYe-OyO1qyt" : {
+          "Distance" : 61.79,
+          "Time" : "2022-02-06 12:57:57.646561",
+          "value" : 0
+        },
+        "-MvCvfNIxzNYA4ieHe75" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:57:59.854264",
+          "value" : 0
+        },
+        "-MvCvfoMaVSOlE-YL_Vw" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:58:01.660872",
+          "value" : 0
+        },
+        "-MvCvgOEBtzjJBAaKQmv" : {
+          "Distance" : 35.68,
+          "Time" : "2022-02-06 12:58:03.957241",
+          "value" : 1
+        },
+        "-MvCvgpv5tCgKwD0VRKF" : {
+          "Distance" : 59.09,
+          "Time" : "2022-02-06 12:58:05.822283",
+          "value" : 0
+        },
+        "-MvCvhH2hSPcJHtVnxhj" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:58:07.649753",
+          "value" : 0
+        },
+        "-MvCvhj-0glYLQPP6wHX" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:58:09.458229",
+          "value" : 0
+        },
+        "-MvCviIqu1Jkd4XXO0qs" : {
+          "Distance" : 29.49,
+          "Time" : "2022-02-06 12:58:11.808748",
+          "value" : 1
+        },
+        "-MvCvik8ZSssdtXkV5cN" : {
+          "Distance" : 59.58,
+          "Time" : "2022-02-06 12:58:13.667639",
+          "value" : 0
+        },
+        "-MvCvjBgXV5RHjojQzMo" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:58:15.476582",
+          "value" : 0
+        },
+        "-MvCvjdan6TKVWgyMV4h" : {
+          "Distance" : 60.39,
+          "Time" : "2022-02-06 12:58:17.304477",
+          "value" : 0
+        },
+        "-MvCvkCyWQBfaQMMdLNK" : {
+          "Distance" : 55.23,
+          "Time" : "2022-02-06 12:58:19.656167",
+          "value" : 1
+        },
+        "-MvCvke9rWKxi2kKYpPT" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:58:21.481591",
+          "value" : 0
+        },
+        "-MvCvl5ZsraSwUShNgwR" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 12:58:23.285378",
+          "value" : 0
+        },
+        "-MvCvlf7lbBnOH2_xQ_w" : {
+          "Distance" : 50.97,
+          "Time" : "2022-02-06 12:58:25.606399",
+          "value" : 1
+        },
+        "-MvCvm7-GizrhXx6mkC5" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 12:58:27.443941",
+          "value" : 0
+        },
+        "-MvCvmZR-OS1DkHIxBlB" : {
+          "Distance" : 59.21,
+          "Time" : "2022-02-06 12:58:29.294953",
+          "value" : 0
+        },
+        "-MvCvn09pzswFVWJbH_e" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:58:31.111991",
+          "value" : 0
+        },
+        "-MvCvn_HM86cdcdcn1Q-" : {
+          "Distance" : 42.98,
+          "Time" : "2022-02-06 12:58:33.451626",
+          "value" : 1
+        },
+        "-MvCvo0jbk8ji8L6lSIR" : {
+          "Distance" : 59.08,
+          "Time" : "2022-02-06 12:58:35.263532",
+          "value" : 0
+        },
+        "-MvCvoTmDrMRgNCuck9B" : {
+          "Distance" : 59.57,
+          "Time" : "2022-02-06 12:58:37.089446",
+          "value" : 0
+        },
+        "-MvCvovwIdl3piRI9OQX" : {
+          "Distance" : 59.94,
+          "Time" : "2022-02-06 12:58:38.945385",
+          "value" : 0
+        },
+        "-MvCvpV4yUMVAAtgv_zT" : {
+          "Distance" : 34.77,
+          "Time" : "2022-02-06 12:58:41.312121",
+          "value" : 1
+        },
+        "-MvCvpwi5NrnYKq6gMoT" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 12:58:43.124040",
+          "value" : 0
+        },
+        "-MvCvqOL_PigTIgahPzv" : {
+          "Distance" : 59.59,
+          "Time" : "2022-02-06 12:58:44.958542",
+          "value" : 0
+        },
+        "-MvCvqqC0mafHmFmK7R1" : {
+          "Distance" : 59.61,
+          "Time" : "2022-02-06 12:58:46.789549",
+          "value" : 0
+        },
+        "-MvCvrPwsbzfqGTXkx6X" : {
+          "Distance" : 30.19,
+          "Time" : "2022-02-06 12:58:49.135046",
+          "value" : 1
+        },
+        "-MvCvrrEBct7-92oYj4p" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:58:50.984896",
+          "value" : 0
+        },
+        "-MvCvsJ1Lwu6uflwonbF" : {
+          "Distance" : 59.09,
+          "Time" : "2022-02-06 12:58:52.799508",
+          "value" : 0
+        },
+        "-MvCvsky4neg1mrtvhqG" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 12:58:54.642446",
+          "value" : 0
+        },
+        "-MvCvtIjbTKAYj1Q1GOw" : {
+          "Distance" : 61.03,
+          "Time" : "2022-02-06 12:58:56.492965",
+          "value" : 0
+        },
+        "-MvCvtqCoDrKlPaGguob" : {
+          "Distance" : 58.79,
+          "Time" : "2022-02-06 12:58:58.823790",
+          "value" : 0
+        },
+        "-MvCvuI-WU1PLsgtr7o8" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 12:59:00.923249",
+          "value" : 0
+        },
+        "-MvCvujrJSnz3cLrI97t" : {
+          "Distance" : 60.47,
+          "Time" : "2022-02-06 12:59:02.765673",
+          "value" : 0
+        },
+        "-MvCvvBO6heQ65-HmIPo" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:59:04.614279",
+          "value" : 0
+        },
+        "-MvCvvd7mGJcQKRIvN6M" : {
+          "Distance" : 59.61,
+          "Time" : "2022-02-06 12:59:06.441539",
+          "value" : 0
+        },
+        "-MvCvw5SrXpgpGmHDnTw" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:59:08.289009",
+          "value" : 0
+        },
+        "-MvCvwj4xcEWvVlrKKE0" : {
+          "Distance" : 42.59,
+          "Time" : "2022-02-06 12:59:10.651331",
+          "value" : 1
+        },
+        "-MvCvxATnfvR7dZV92WK" : {
+          "Distance" : 59.59,
+          "Time" : "2022-02-06 12:59:12.753704",
+          "value" : 0
+        },
+        "-MvCvxbkPzr2dMIuoDh7" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 12:59:14.569004",
+          "value" : 0
+        },
+        "-MvCvy3sGVPYu_jLRK8Q" : {
+          "Distance" : 58.8,
+          "Time" : "2022-02-06 12:59:16.377579",
+          "value" : 0
+        },
+        "-MvCvyWLdZH0RGUsiAHp" : {
+          "Distance" : 59.62,
+          "Time" : "2022-02-06 12:59:18.246593",
+          "value" : 0
+        },
+        "-MvCvyyQD-1OKcSSm-7s" : {
+          "Distance" : 59.57,
+          "Time" : "2022-02-06 12:59:20.064506",
+          "value" : 0
+        },
+        "-MvCvzQ7vgySNmnO43P6" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 12:59:21.926462",
+          "value" : 0
+        },
+        "-MvCvzruFTtFICeyEQyj" : {
+          "Distance" : 59.19,
+          "Time" : "2022-02-06 12:59:23.765986",
+          "value" : 0
+        },
+        "-MvCw-RUSrlUdKq2vlW1" : {
+          "Distance" : 26.49,
+          "Time" : "2022-02-06 12:59:26.103272",
+          "value" : 1
+        },
+        "-MvCw-tOEikXiHYxcqMm" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 12:59:27.947740",
+          "value" : 0
+        },
+        "-MvCw0LFPwAdzKtNvBJm" : {
+          "Distance" : 59.21,
+          "Time" : "2022-02-06 12:59:29.799435",
+          "value" : 0
+        },
+        "-MvCw0upKSFnHgsgCsA5" : {
+          "Distance" : 56.1,
+          "Time" : "2022-02-06 12:59:32.146890",
+          "value" : 1
+        },
+        "-MvCw1U-_KBWDRtp7SeA" : {
+          "Distance" : 11.56,
+          "Time" : "2022-02-06 12:59:34.484765",
+          "value" : 1
+        },
+        "-MvCw1vi2gLGWDPvAKoV" : {
+          "Distance" : 59.6,
+          "Time" : "2022-02-06 12:59:36.302800",
+          "value" : 0
+        },
+        "-MvCw2NtVE8iHKf9_anG" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:59:38.140650",
+          "value" : 0
+        },
+        "-MvCw2xURwE5QoxHyC_J" : {
+          "Distance" : 32.36,
+          "Time" : "2022-02-06 12:59:40.516415",
+          "value" : 1
+        },
+        "-MvCw3PPQ0QVOV8BigQu" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 12:59:42.350619",
+          "value" : 0
+        },
+        "-MvCw3rDIpUAK5p_ZfEL" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 12:59:44.203853",
+          "value" : 0
+        },
+        "-MvCw4IvifLZ27mWTKbZ" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 12:59:46.037746",
+          "value" : 0
+        },
+        "-MvCw4kY3cmiED-R_Zxp" : {
+          "Distance" : 60.08,
+          "Time" : "2022-02-06 12:59:47.880894",
+          "value" : 0
+        },
+        "-MvCw5C5AhC8tFF4V8vH" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 12:59:49.712592",
+          "value" : 0
+        },
+        "-MvCw5dk-h1q1rnsTLLd" : {
+          "Distance" : 59.61,
+          "Time" : "2022-02-06 12:59:51.539902",
+          "value" : 0
+        },
+        "-MvCw65jU0FvSZiUwYOu" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 12:59:53.374866",
+          "value" : 0
+        },
+        "-MvCw6YTSWP77z50B8at" : {
+          "Distance" : 60.21,
+          "Time" : "2022-02-06 12:59:55.229483",
+          "value" : 0
+        },
+        "-MvCw76yj6Kz8WoRCCpK" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 12:59:57.080314",
+          "value" : 0
+        },
+        "-MvCw7aMT1gyFE-wbqw2" : {
+          "Distance" : 59.55,
+          "Time" : "2022-02-06 12:59:59.511785",
+          "value" : 0
+        },
+        "-MvCw8ATqLovgvprOGYs" : {
+          "Distance" : 43.04,
+          "Time" : "2022-02-06 13:00:01.853675",
+          "value" : 1
+        },
+        "-MvCw8bjtFk_R1vi_4x8" : {
+          "Distance" : 58.64,
+          "Time" : "2022-02-06 13:00:03.724929",
+          "value" : 0
+        },
+        "-MvCw93njAepGuGGpYxs" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 13:00:05.527781",
+          "value" : 0
+        },
+        "-MvCw9WqeaCXjqJUqjks" : {
+          "Distance" : 59.17,
+          "Time" : "2022-02-06 13:00:07.395210",
+          "value" : 0
+        },
+        "-MvCwA5L4qnknotrr1Pp" : {
+          "Distance" : 30.62,
+          "Time" : "2022-02-06 13:00:09.753988",
+          "value" : 1
+        },
+        "-MvCwAY4bBid9yGFcc9S" : {
+          "Distance" : 59.12,
+          "Time" : "2022-02-06 13:00:11.584870",
+          "value" : 0
+        },
+        "-MvCwAztHUSVGuMiroNN" : {
+          "Distance" : 59.14,
+          "Time" : "2022-02-06 13:00:13.429272",
+          "value" : 0
+        },
+        "-MvCwBRAiBZ_5KUiqRl1" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 13:00:15.277263",
+          "value" : 0
+        },
+        "-MvCwBtQR15tFKg_8O7G" : {
+          "Distance" : 60.99,
+          "Time" : "2022-02-06 13:00:17.075249",
+          "value" : 0
+        },
+        "-MvCwCKuzxMDFyG4826r" : {
+          "Distance" : 59.1,
+          "Time" : "2022-02-06 13:00:18.955602",
+          "value" : 0
+        },
+        "-MvCwCn-uJrQNSiR18V5" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 13:00:20.773901",
+          "value" : 0
+        },
+        "-MvCwDF8Y5WeOV6KsfYi" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 13:00:22.640498",
+          "value" : 0
+        },
+        "-MvCwDh8RVH_0o_8cBlX" : {
+          "Distance" : 60.58,
+          "Time" : "2022-02-06 13:00:24.506160",
+          "value" : 0
+        },
+        "-MvCwE8o6T1ucSRMrD3U" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 13:00:26.363380",
+          "value" : 0
+        },
+        "-MvCwEb8C-Z79YPcx3zl" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 13:00:28.198839",
+          "value" : 0
+        },
+        "-MvCwF3-0viva4YRv3Zk" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 13:00:30.070786",
+          "value" : 0
+        },
+        "-MvCwFWAWen0KkwMBWvw" : {
+          "Distance" : 60.63,
+          "Time" : "2022-02-06 13:00:31.920711",
+          "value" : 0
+        },
+        "-MvCwFyEwa3YlTaVyZq3" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 13:00:33.784756",
+          "value" : 0
+        },
+        "-MvCwGQ5nW4pqswOctyc" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 13:00:35.641564",
+          "value" : 0
+        },
+        "-MvCwGs1kNQcJ5WxkrfI" : {
+          "Distance" : 58.32,
+          "Time" : "2022-02-06 13:00:37.489372",
+          "value" : 0
+        },
+        "-MvCwHJ_gd7v8i1vICD4" : {
+          "Distance" : 60.05,
+          "Time" : "2022-02-06 13:00:39.340860",
+          "value" : 0
+        },
+        "-MvCwHl6d2uMAV_iUzEm" : {
+          "Distance" : 58.68,
+          "Time" : "2022-02-06 13:00:41.165404",
+          "value" : 0
+        },
+        "-MvCwIC_1LYArVL8RA8L" : {
+          "Distance" : 59.13,
+          "Time" : "2022-02-06 13:00:42.991465",
+          "value" : 0
+        },
+        "-MvCwIe7YB3TbmQviSKL" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 13:00:44.815894",
+          "value" : 0
+        },
+        "-MvCwJDdgUoEyHFt6ghE" : {
+          "Distance" : 28.36,
+          "Time" : "2022-02-06 13:00:47.142529",
+          "value" : 1
+        },
+        "-MvCwJfMJ4pM5fx95TdA" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 13:00:48.975839",
+          "value" : 0
+        },
+        "-MvCwK7I1oEZMmivETpD" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 13:00:50.817600",
+          "value" : 0
+        },
+        "-MvCwK_C20htng-Ycj7G" : {
+          "Distance" : 58.68,
+          "Time" : "2022-02-06 13:00:52.672661",
+          "value" : 0
+        },
+        "-MvCwL8wIdCDKh6crFYb" : {
+          "Distance" : 15.38,
+          "Time" : "2022-02-06 13:00:55.021630",
+          "value" : 1
+        },
+        "-MvCwLimpdkVbTS0eg6F" : {
+          "Distance" : 58.68,
+          "Time" : "2022-02-06 13:00:56.950374",
+          "value" : 0
+        },
+        "-MvCwMCNBNe0sOMSXOBu" : {
+          "Distance" : 59.18,
+          "Time" : "2022-02-06 13:00:59.340287",
+          "value" : 0
+        },
+        "-MvCwMeAJJqJa8C4uMTq" : {
+          "Distance" : 59.67,
+          "Time" : "2022-02-06 13:01:01.192834",
+          "value" : 0
+        },
+        "-MvCwN5jtgDHnFWcaNbH" : {
+          "Distance" : 58.35,
+          "Time" : "2022-02-06 13:01:03.033511",
+          "value" : 0
+        },
+        "-MvCwNYS9icTAQJ4jZ2D" : {
+          "Distance" : 58.69,
+          "Time" : "2022-02-06 13:01:04.861435",
+          "value" : 0
+        },
+        "-MvCwO-V_5dQ-XOXXrpf" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 13:01:06.699412",
+          "value" : 0
+        },
+        "-MvCwOSH0Att8LPjkAix" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 13:01:08.561016",
+          "value" : 0
+        },
+        "-MvCwOuAb-x90yhThLOv" : {
+          "Distance" : 58.32,
+          "Time" : "2022-02-06 13:01:10.401454",
+          "value" : 0
+        },
+        "-MvCwPMJYcV1hz52JTW3" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 13:01:12.251539",
+          "value" : 0
+        },
+        "-MvCwPoD3RB_eKWxlnmH" : {
+          "Distance" : 58.33,
+          "Time" : "2022-02-06 13:01:14.117295",
+          "value" : 0
+        },
+        "-MvCwQGDT6PBOsfJvJYq" : {
+          "Distance" : 59.6,
+          "Time" : "2022-02-06 13:01:15.966615",
+          "value" : 0
+        },
+        "-MvCwQhcEibSK2R7A7lL" : {
+          "Distance" : 58.29,
+          "Time" : "2022-02-06 13:01:17.819588",
+          "value" : 0
+        },
+        "-MvCwR8tAdkoyo5lHKBO" : {
+          "Distance" : 58.72,
+          "Time" : "2022-02-06 13:01:19.634276",
+          "value" : 0
+        },
+        "-MvCwRaPbQD-4q8Uxf5D" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 13:01:21.446573",
+          "value" : 0
+        },
+        "-MvCwS9UZ-lQdu9uhzH6" : {
+          "Distance" : 28.57,
+          "Time" : "2022-02-06 13:01:23.771048",
+          "value" : 1
+        },
+        "-MvCwSb9JamvxtsVYCwI" : {
+          "Distance" : 58.31,
+          "Time" : "2022-02-06 13:01:25.580340",
+          "value" : 0
+        },
+        "-MvCwT33lv3n0IAj5yae" : {
+          "Distance" : 58.31,
+          "Time" : "2022-02-06 13:01:27.416618",
+          "value" : 0
+        },
+        "-MvCwTW-LIoZDtdn-1-b" : {
+          "Distance" : 59.11,
+          "Time" : "2022-02-06 13:01:29.268291",
+          "value" : 0
+        },
+        "-MvCwU4VynO5702aWIcq" : {
+          "Distance" : 16.15,
+          "Time" : "2022-02-06 13:01:31.617324",
+          "value" : 1
+        },
+        "-MvCwUX4e_aX4DB0qNg_" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 13:01:33.453095",
+          "value" : 0
+        },
+        "-MvCwUyZtmaLhZG1iKP4" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 13:01:35.286612",
+          "value" : 0
+        },
+        "-MvCwVYF8SObA4HXcAtn" : {
+          "Distance" : 44.42,
+          "Time" : "2022-02-06 13:01:37.606110",
+          "value" : 1
+        },
+        "-MvCwW-2TZM3q89SiM2G" : {
+          "Distance" : 58.36,
+          "Time" : "2022-02-06 13:01:39.456815",
+          "value" : 0
+        },
+        "-MvCwWRYCrQmonayJhzF" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 13:01:41.296515",
+          "value" : 0
+        },
+        "-MvCwWvNXT4fl-6_99KG" : {
+          "Distance" : 58.74,
+          "Time" : "2022-02-06 13:01:43.124021",
+          "value" : 0
+        },
+        "-MvCwXUuNz558R-TsII1" : {
+          "Distance" : 32.79,
+          "Time" : "2022-02-06 13:01:45.595654",
+          "value" : 1
+        },
+        "-MvCwXwOIeg2E6ZshWX_" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 13:01:47.433344",
+          "value" : 0
+        },
+        "-MvCwYOSHMpLBkjv--V0" : {
+          "Distance" : 58.71,
+          "Time" : "2022-02-06 13:01:49.259088",
+          "value" : 0
+        },
+        "-MvCwYq7Jh0hJ5gRQeCz" : {
+          "Distance" : 58.73,
+          "Time" : "2022-02-06 13:01:51.118349",
+          "value" : 0
+        },
+        "-MvCwZHmIplXEKOsw-gR" : {
+          "Distance" : 60.08,
+          "Time" : "2022-02-06 13:01:52.952339",
+          "value" : 0
+        },
+        "-MvCwZjatM_Q7h2qL9Fy" : {
+          "Distance" : 58.33,
+          "Time" : "2022-02-06 13:01:54.784395",
+          "value" : 0
+        },
+        "-MvCw_FAmjLQ4UQFxQUg" : {
+          "Distance" : 58.68,
+          "Time" : "2022-02-06 13:01:56.631124",
+          "value" : 0
+        },
+        "-MvCw_lfZVmR5t-A8zwD" : {
+          "Distance" : 58.25,
+          "Time" : "2022-02-06 13:01:58.820922",
+          "value" : 0
+        },
+        "-MvCwaEcb80YgeliRrNG" : {
+          "Distance" : 60.58,
+          "Time" : "2022-02-06 13:02:00.857149",
+          "value" : 0
+        },
+        "-MvCwag7pomaiUYqf2LY" : {
+          "Distance" : 58.33,
+          "Time" : "2022-02-06 13:02:02.773925",
+          "value" : 0
+        },
+        "-MvCwb7ZiFfPZu392TNr" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 13:02:04.601736",
+          "value" : 0
+        },
+        "-MvCwb_0zN6GDYWqTiqd" : {
+          "Distance" : 59.52,
+          "Time" : "2022-02-06 13:02:06.414237",
+          "value" : 0
+        },
+        "-MvCwc0bmDxsa5JjfybK" : {
+          "Distance" : 60.1,
+          "Time" : "2022-02-06 13:02:08.239036",
+          "value" : 0
+        },
+        "-MvCwcSxYDklrd4jy7r6" : {
+          "Distance" : 58.32,
+          "Time" : "2022-02-06 13:02:10.070305",
+          "value" : 0
+        },
+        "-MvCwcua9GkV_PWWKGkk" : {
+          "Distance" : 58.7,
+          "Time" : "2022-02-06 13:02:11.884928",
+          "value" : 0
+        },
+        "-MvCwdML-D4bZ2iXrD4b" : {
+          "Distance" : 58.32,
+          "Time" : "2022-02-06 13:02:13.713541",
+          "value" : 0
+        },
+        "-MvCwdoJfFQ5IdnYakCk" : {
+          "Distance" : 60.11,
+          "Time" : "2022-02-06 13:02:15.556670",
+          "value" : 0
+        },
+        "-MvCweG1aS4DvOpvvFC6" : {
+          "Distance" : 58.78,
+          "Time" : "2022-02-06 13:02:17.410848",
+          "value" : 0
+        },
+        "-MvCwehjD8Vm_Ji7R8Kr" : {
+          "Distance" : 58.77,
+          "Time" : "2022-02-06 13:02:19.248970",
+          "value" : 0
+        },
+        "-MvCwf9G0cVYnmRbtosA" : {
+          "Distance" : 58.35,
+          "Time" : "2022-02-06 13:02:21.084815",
+          "value" : 0
+        },
+        "-MvCwfakmigWmisPedDj" : {
+          "Distance" : 60.14,
+          "Time" : "2022-02-06 13:02:22.913788",
+          "value" : 0
+        },
+        "-MvCwg2Nd02LBrlHvcjd" : {
+          "Distance" : 58.77,
+          "Time" : "2022-02-06 13:02:24.734690",
+          "value" : 0
+        },
+        "-MvCwgVi-4ngTvU8s6hG" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 13:02:26.569949",
+          "value" : 0
+        },
+        "-MvCwgxTiqJDHJ7MiLhR" : {
+          "Distance" : 59.15,
+          "Time" : "2022-02-06 13:02:28.439963",
+          "value" : 0
+        },
+        "-MvCwhOxxd1cf1McWOXi" : {
+          "Distance" : 59.71,
+          "Time" : "2022-02-06 13:02:30.284251",
+          "value" : 0
+        },
+        "-MvCwhqs4e-JIAdWJVZi" : {
+          "Distance" : 59.2,
+          "Time" : "2022-02-06 13:02:32.104492",
+          "value" : 0
+        },
+        "-MvCwiIKSNqvbL32ajHI" : {
+          "Distance" : 58.78,
+          "Time" : "2022-02-06 13:02:33.958384",
+          "value" : 0
+        },
+        "-MvCwijrzN5Nb47YwjAB" : {
+          "Distance" : 59.22,
+          "Time" : "2022-02-06 13:02:35.778130",
+          "value" : 0
+        },
+        "-MvCwjJ9IAs2VwUexLlz" : {
+          "Distance" : 19.2,
+          "Time" : "2022-02-06 13:02:38.100384",
+          "value" : 1
+        },
+        "-MvCwjk_gBItEU0HLMws" : {
+          "Distance" : 59.22,
+          "Time" : "2022-02-06 13:02:39.925599",
+          "value" : 0
+        },
+        "-MvCwkBX-y2wXAAhrbeC" : {
+          "Distance" : 58.82,
+          "Time" : "2022-02-06 13:02:41.745427",
+          "value" : 0
+        },
+        "-MvCwkc_3KBbAjmd0IVf" : {
+          "Distance" : 60.37,
+          "Time" : "2022-02-06 13:02:43.530333",
+          "value" : 0
+        },
+        "-MvCwl4Dwo9oHDhFSC4C" : {
+          "Distance" : 60.49,
+          "Time" : "2022-02-06 13:02:45.325156",
+          "value" : 0
+        },
+        "-MvCwlWyNtEcJON5yUOC" : {
+          "Distance" : 59.59,
+          "Time" : "2022-02-06 13:02:47.163740",
+          "value" : 0
+        },
+        "-MvCwlyK1UwC4XpzN03u" : {
+          "Distance" : 59.6,
+          "Time" : "2022-02-06 13:02:49.003330",
+          "value" : 0
+        },
+        "-MvCwmPah1WIGU79_IPr" : {
+          "Distance" : 59.63,
+          "Time" : "2022-02-06 13:02:50.810004",
+          "value" : 0
+        },
+        "-MvCwmyp5nBwg5pInRH_" : {
+          "Distance" : 20.77,
+          "Time" : "2022-02-06 13:02:53.126029",
+          "value" : 1
+        },
+        "-MvCwnQhrFwP1o-QmgWF" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 13:02:54.945718",
+          "value" : 0
+        },
+        "-MvCwnzDHS3N1Teaom36" : {
+          "Distance" : 59.57,
+          "Time" : "2022-02-06 13:02:56.819452",
+          "value" : 0
+        },
+        "-MvCwo_dDUxwQ7M37YL4" : {
+          "Distance" : 36.41,
+          "Time" : "2022-02-06 13:02:59.673989",
+          "value" : 1
+        },
+        "-MvCwp0sWp5SqjxaftjP" : {
+          "Distance" : 59.55,
+          "Time" : "2022-02-06 13:03:01.529803",
+          "value" : 0
+        },
+        "-MvCwpSoce3p9mKOrETA" : {
+          "Distance" : 59.61,
+          "Time" : "2022-02-06 13:03:03.333763",
+          "value" : 0
+        },
+        "-MvCwpu3tM3sb2Whr4Ju" : {
+          "Distance" : 59.51,
+          "Time" : "2022-02-06 13:03:05.113923",
+          "value" : 0
+        },
+        "-MvCwqU-dgVpwG068O5x" : {
+          "Distance" : 30.73,
+          "Time" : "2022-02-06 13:03:07.426803",
+          "value" : 1
+        },
+        "-MvCwqvpuiM20RE9ggie" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 13:03:09.298112",
+          "value" : 0
+        },
+        "-MvCwrO2R2QRrpAx1JPS" : {
+          "Distance" : 59.56,
+          "Time" : "2022-02-06 13:03:11.148976",
+          "value" : 0
+        },
+        "-MvCwrxm61YA7Z6iYhpc" : {
+          "Distance" : 57.11,
+          "Time" : "2022-02-06 13:03:13.511036",
+          "value" : 1
+        },
+        "-MvCwsPaw2AD8B70Z_k-" : {
+          "Distance" : 58.78,
+          "Time" : "2022-02-06 13:03:15.368253",
+          "value" : 0
+        },
+        "-MvCwsr9WIHvJfrjUdyH" : {
+          "Distance" : 58.77,
+          "Time" : "2022-02-06 13:03:17.206018",
+          "value" : 0
+        },
+        "-MvCwtITMWnumZtU1CH-" : {
+          "Distance" : 58.76,
+          "Time" : "2022-02-06 13:03:19.032811",
+          "value" : 0
+        },
+        "-MvCwtk7nFjXy2PAYl8B" : {
+          "Distance" : 58.78,
+          "Time" : "2022-02-06 13:03:20.845424",
+          "value" : 0
+        },
+        "-MvCwuBgGe9FWmVV5ocR" : {
+          "Distance" : 58.75,
+          "Time" : "2022-02-06 13:03:22.681619",
+          "value" : 0
+        },
+        "-MvCwudnhC55gbgYITlw" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 13:03:24.506185",
+          "value" : 0
+        },
+        "-MvCwv5bPTa6yM_PoKms" : {
+          "Distance" : 58.79,
+          "Time" : "2022-02-06 13:03:26.366404",
+          "value" : 0
+        },
+        "-MvCwvXvVNs6yQpojO6c" : {
+          "Distance" : 59.16,
+          "Time" : "2022-02-06 13:03:28.212725",
+          "value" : 0
+        }
+      }
+    }
+  }
