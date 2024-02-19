@@ -9,8 +9,6 @@ Quelles données utilisés pour entrainer notre IA ?(dans un labyrinthe ?)
 
 Si on fait un apprentissage par renforcement doit on utilisr un data set ?
 
-
-
 Un agent avec un détecteur à ultra son 
 comment définir que l'agent possède un detecteur et le faire simuler la detection ?
 faire simuler la detection dans l entrainement 
@@ -18,3 +16,11 @@ comment implementer le detecteur pour qu il retourne les données qu il capte
 
 (comment lié notre machine learning  STM 32 NUCLEO
 TensorFlow)
+
+
+
+
+
+
+faire un etat de l'art par rapport a un robot
+évolution par rapport a l'entrainement
