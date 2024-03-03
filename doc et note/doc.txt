@@ -30,3 +30,6 @@ https://www.kaggle.com/code/anthonytherrien/solving-mini-mazes-bfs-algorithm
 
  Robot SCITOS-G5 et dataset
  https://www.robotshop.com/media/files/PDF/datasheet-scitos-g5-advanced.pdf
+
+Meanwhile 
+https://meanwhile-france.com/quelles-sont-les-caracteristiques-dun-robot-mobile-autonome/
