@@ -27,3 +27,6 @@ Le lien du collab https://colab.research.google.com/drive/1z4JzYAHlbeU2tvO5J8H5q
 
 code algo maze
 https://www.kaggle.com/code/anthonytherrien/solving-mini-mazes-bfs-algorithm
+
+ Robot SCITOS-G5 et dataset
+ https://www.robotshop.com/media/files/PDF/datasheet-scitos-g5-advanced.pdf
