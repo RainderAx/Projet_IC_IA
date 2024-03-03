@@ -1,9 +1,13 @@
 
 Quels sont les differentes etape a faire ?
 
-Utiilser un algorithm par renforcement si non Quel type d algo faire ?
+approfondir le rl  aller sur youtube David Silver Reinforcement learning
+avoir un support pdf ou support de cours 
 
-Quel type d algo faire ?Quel bibilio utiilser ?
+faire un simulation bien definir les recompenses 
+
+
+Quel bibilio utiilser ?
 
 Quelles données utilisés pour entrainer notre IA ?(dans un labyrinthe ?)
 
