@@ -33,3 +33,7 @@ https://www.kaggle.com/code/anthonytherrien/solving-mini-mazes-bfs-algorithm
 
 Meanwhile 
 https://meanwhile-france.com/quelles-sont-les-caracteristiques-dun-robot-mobile-autonome/
+
+Algo SLAM 
+https://www.wevolver.com/article/lidar-slam-the-ultimate-guide-to-simultaneous-localization-and-mapping
+
