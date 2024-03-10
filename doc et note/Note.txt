@@ -22,7 +22,8 @@ comment implementer le detecteur pour qu il retourne les données qu il capte
 TensorFlow)
 
 
-
+Hugging face 
+https://huggingface.co/learn/deep-rl-course/unit0/introduction
 
 
 
